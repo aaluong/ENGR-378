@@ -1,0 +1,15 @@
+F:/Intel/Lab1/modelsim/light/lightHDL.v {1 {vlog -work work -stats=none F:/Intel/Lab1/modelsim/light/lightHDL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module t
+
+Top level modules:
+	t
+
+} {} {}} F:/Intel/Lab1/light.v {1 {vlog -work work -stats=none F:/Intel/Lab1/light.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module light
+
+Top level modules:
+	light
+
+} {} {}}

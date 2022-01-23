@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Intel
+vlight
+Z0 !s110 1612324289
+!i10b 1
+!s100 ;6LzGOWCHC52Ggidi60161
+ICQ@ggzYmTMS1e[UmGU_Rk3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Intel/Lab1/modelsim/light
+w1612321296
+8F:/Intel/Lab1/light.v
+FF:/Intel/Lab1/light.v
+L0 1
+Z3 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1612324289.000000
+!s107 F:/Intel/Lab1/light.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Intel/Lab1/light.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vt
+R0
+!i10b 1
+!s100 HXHl3dG6T?[4TTZSAW;jf1
+IGehWhIYk9z_[J`4HeWO3e1
+R1
+R2
+w1612324271
+8F:/Intel/Lab1/modelsim/light/lightHDL.v
+FF:/Intel/Lab1/modelsim/light/lightHDL.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/Intel/Lab1/modelsim/light/lightHDL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Intel/Lab1/modelsim/light/lightHDL.v|
+!i113 1
+R5
+R6
